@@ -3,7 +3,10 @@ import React from "react";
 function NavBar() {
   return (
     <nav>
-      <a href="#home">I'm a link!</a>
+      <h1>Navigation</h1>
+      {/* Additional content here */}
     </nav>
   );
 }
+
+export default NavBar;
